@@ -2,7 +2,7 @@
 name = "uber-pickups"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["Tanny"]
 readme = "README.md"
 packages = [{include = "uber_pickups"}]
 
